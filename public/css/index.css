@@ -1,0 +1,51 @@
+.body_index{
+  font-family: 'Raleway', sans-serif;
+}
+
+.navegador li a{
+  text-decoration: none;
+  color: rgb(150, 149, 149);
+  font-family: 'Raleway', sans-serif;
+}
+
+.navegador li {
+  list-style: none;
+  margin-bottom: 10px;
+}
+
+.imagen_emilia_home {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 75%;
+  height: auto;
+}
+
+#sociales a {
+   color: black;
+}
+
+#sociales li {
+    list-style: none;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+h3 {
+    letter-spacing: 4px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 3%;
+    font-size: 150%;
+    color: rgb(61, 61, 61);
+    margin-top: 100px;
+}
+
+.mi-clase {
+  position: fixed;
+  bottom: 20px;
+  background-color: rgba(254, 254, 254, 0.3);
+  width: 100%;
+  font-size: 350%;
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 3px;
+}

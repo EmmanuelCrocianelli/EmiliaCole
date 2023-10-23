@@ -1,0 +1,62 @@
+.body_about {
+  font-family: "Raleway", sans-serif;
+  overflow: hidden;
+}
+
+.franja {
+  text-align: right;
+  background-color: rgba(254, 254, 254, 0.496);
+  padding: 2px;
+}
+.contenedor_about {
+  text-align: right;
+}
+
+.navegador_about li a {
+  margin-left: 10px;
+  text-decoration: none;
+  color: rgb(49, 49, 49);
+  font-family: "Raleway", sans-serif;
+}
+
+.navegador_about li {
+  list-style: none;
+  display: inline-block;
+}
+
+#sociales_about li {
+  list-style: none;
+  display: inline-block;
+  margin-top: 2px;
+}
+
+#sociales_about li a {
+  color: black;
+}
+
+.imagen_emilia_about {
+  z-index: -1;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 75%;
+}
+
+.emilia_about {
+  width: 100%;
+  font-size: 350%;
+  margin-top: 7%;
+}
+
+.texto_about {
+  color: #389f8c;
+  padding: 0%;
+  margin-left: 30px;
+}
+
+.texto_about h3 {
+  color: #389f8c;
+  margin: 0%;
+  font-size: 100%;
+  padding: 10px;
+}
